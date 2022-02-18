@@ -9,7 +9,10 @@ TechStack Used: HTML CSS and Javascript
 
 Final Design of my Website ------>
 
+---
+
 ![](images/rd.png)
 
+---
 
 You can check my website: https://its-me-saurav.github.io/Amity_SANGATHAN_Website/
